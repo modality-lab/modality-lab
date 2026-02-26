@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+We're making open-source tools for musicians here.
 <!--
 **modality-lab/modality-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
